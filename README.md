@@ -1,2 +1,2 @@
 # Matrix
-Two simple classes representing fractions ans matrix
+Two simple classes representing fractions and matrix
